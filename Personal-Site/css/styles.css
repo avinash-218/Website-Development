@@ -1,0 +1,53 @@
+div {
+  background-color: #E4F9F5;
+}
+
+h1 {
+  margin-top: 0px;
+  font-size: 400%;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.3rem;
+}
+
+h2 {
+  color: #11999E;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: cursive;
+}
+
+.top {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skillrow {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
